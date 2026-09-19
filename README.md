@@ -1,5 +1,3 @@
-# family-finance
-
 # Family Finance
 
 Personal and family finance management application.
